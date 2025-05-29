@@ -41,7 +41,6 @@ npm install
 ```bash
 DATABASE_URL="file:./dev.db"
 JWT_SECRET=suaChaveSecreta
-JWT_REFRESH_SECRET=suaOutraChaveSecreta
 ```
 
 4. Configure e execute as migrations do banco:
