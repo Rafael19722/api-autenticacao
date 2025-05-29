@@ -29,7 +29,7 @@ API RESTful de autenticação utilizando Node.js, Express e Prisma. Implementa a
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Rafael19722/api-autenticacao
 ```
 
 2. instale as dependências:  
