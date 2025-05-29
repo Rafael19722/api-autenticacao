@@ -16,7 +16,7 @@ API RESTful de autenticação utilizando Node.js, Express e Prisma. Implementa a
 
 - Node.js
 - Express
-- Prisma + SQLite (ou outro banco)
+- Prisma + SQLite 
 - JWT (jsonwebtoken)
 - dotenv
 - bcrypt (para hash de senhas)
