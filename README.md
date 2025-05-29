@@ -1,18 +1,18 @@
-# 🔐 API de Autenticação com Node.js, Express e Prisma
+# API de Autenticação com Node.js, Express e Prisma
 
 API RESTful de autenticação utilizando Node.js, Express e Prisma. Implementa autenticação baseada em JSON Web Tokens (JWT), com proteção de rotas via middleware.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✅ Registro de usuário
-- ✅ Login com geração de Access Token e Refresh Token
+- ✅ Login com geração de Access Token
 - ✅ Proteção de rotas com middleware JWT
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - Node.js
 - Express
@@ -24,7 +24,7 @@ API RESTful de autenticação utilizando Node.js, Express e Prisma. Implementa a
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 1. Clone o repositório:
 
